@@ -27,9 +27,9 @@ function getUsers() {
                     <p><strong>Usuario:</strong> ${username}</p>
                     <p><strong>Teléfono:</strong> ${phone}</p>
                     <p><strong>Correo:</strong> ${email}</p>
-                        <div class="user-image">
-                            <img src="${img}" alt="${name}">
-                        </div>
+                </div>
+                <div class="user-image">
+                    <img src="${img}" alt="${name}">
                 </div>
             </div>
             <div class="user-company">
